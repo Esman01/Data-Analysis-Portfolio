@@ -1,0 +1,35 @@
+# Ignore system files
+/Application Data/
+/Cookies/
+/Local Settings/
+/My Documents/
+/NetHood/
+/PrintHood/
+/Recent/
+/SendTo/
+/Start Menu/
+/Templates/
+
+# Ignore hidden files and logs
+.asc
+.dotnet/
+.matplotlib/
+.tanks/
+*.log
+NTUSER.*
+
+# Ignore common user directories
+/3D Objects/
+/Contacts/
+/Desktop/
+/Documents/
+/Downloads/
+/Favorites/
+/Heaven/
+/Links/
+/Music/
+/OneDrive/
+/Pictures/
+/Saved Games/
+/Searches/
+/Videos/
