@@ -1,0 +1,17 @@
+# Ignore system-specific files
+*.xml
+*.viminfo
+*.lesshst
+
+# Ignore local configuration files
+.azuredatastudio/
+.VirtualBox/
+AppData/
+
+# Ignore everything in Documents except the project folder
+Documents/*
+!Documents/Kaggle Portfolio/
+!Documents/Kaggle Portfolio/Social Media World Conflicts/
+
+# Keep specific files and directories in Social Media World Conflicts
+!Documents/Kaggle Portfolio/Social Media World Conflicts/*
